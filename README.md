@@ -1,1 +1,1 @@
-# day2_demo
+# day2demo
